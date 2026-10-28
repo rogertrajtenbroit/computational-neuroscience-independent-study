@@ -1,0 +1,7 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+**/project_2_baseline.png
+**/project_2_calcium_conductance_comparison.png
+**/hodgkin_huxley_calcium_rerun.ipynb

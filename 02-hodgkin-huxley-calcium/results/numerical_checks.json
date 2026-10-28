@@ -1,0 +1,66 @@
+{
+  "trajectories": {
+    "0.0": {
+      "solver_success": true,
+      "shape": [
+        7,
+        25001
+      ],
+      "finite": true,
+      "min_gate": 0.00160956282096735,
+      "max_gate": 0.9941703757262765,
+      "min_calcium": 0.05,
+      "detected_spikes_during_pulse": 7
+    },
+    "0.4": {
+      "solver_success": true,
+      "shape": [
+        7,
+        25001
+      ],
+      "finite": true,
+      "min_gate": 0.0016112376424457975,
+      "max_gate": 0.9941866421037082,
+      "min_calcium": 0.049999999999999996,
+      "detected_spikes_during_pulse": 7
+    },
+    "1.0": {
+      "solver_success": true,
+      "shape": [
+        7,
+        25001
+      ],
+      "finite": true,
+      "min_gate": 0.0016119911123478948,
+      "max_gate": 0.9942108639053994,
+      "min_calcium": 0.05000000000000001,
+      "detected_spikes_during_pulse": 7
+    },
+    "2.0": {
+      "solver_success": true,
+      "shape": [
+        7,
+        25001
+      ],
+      "finite": true,
+      "min_gate": 0.0016121148332888958,
+      "max_gate": 0.9942509059741956,
+      "min_calcium": 0.05,
+      "detected_spikes_during_pulse": 7
+    }
+  },
+  "equilibrium_residuals": {
+    "0.0": [
+      1.5143442055887135e-11
+    ],
+    "0.4": [
+      2.0077085827185925e-11
+    ],
+    "1.0": [
+      3.0314292742694704e-15
+    ],
+    "2.0": [
+      5.814684671257009e-15
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+g_Ca (mS/cm²),Equilibrium,V_star (mV),Ca_star (µM),Largest real part (1/ms),Stability
+0.0,1,-64.99972243372159,0.05,-0.012500000000000002,Locally asymptotically stable
+0.4,1,-64.99955860980853,0.05000305704002112,-0.0125,Locally asymptotically stable
+1.0,1,-64.99931285389458,0.050007643124114196,-0.0125,Locally asymptotically stable
+2.0,1,-64.99890320743565,0.05001528799548627,-0.0125,Locally asymptotically stable

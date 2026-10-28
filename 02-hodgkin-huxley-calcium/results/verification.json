@@ -1,0 +1,50 @@
+{
+  "verification_date": "2026-10-28",
+  "source_filename": "Project 2_assignment 3 (1).ipynb",
+  "source_sha256": "7e63f7ef422a5c9c90cbda865efa4746b9d6bec9ce1593bb1665c09ec8990cc5",
+  "original_copy_identical": true,
+  "original_cells_and_outputs_preserved": true,
+  "fresh_jupyter_kernel_execution": "passed",
+  "python": "3.14.6 | packaged by Anaconda, Inc. | (main, Jul  9 2026, 14:30:20) [Clang 20.1.8 ]",
+  "platform": "macOS-26.5.1-arm64-arm-64bit-Mach-O",
+  "packages": {
+    "numpy": "2.4.6",
+    "scipy": "1.18.0",
+    "matplotlib": "3.11.0",
+    "pandas": "3.0.3",
+    "ipython": "9.15.0",
+    "ipykernel": "6.31.0",
+    "nbformat": "5.10.4",
+    "nbclient": "0.11.0",
+    "nbconvert": "7.17.1",
+    "jupyterlab": "4.5.9"
+  },
+  "saved_tables_comparison": [
+    {
+      "original_cell_index": 2,
+      "table_text_matches": true,
+      "table_count": 0
+    },
+    {
+      "original_cell_index": 5,
+      "table_text_matches": true,
+      "table_count": 0
+    },
+    {
+      "original_cell_index": 10,
+      "table_text_matches": true,
+      "table_count": 0
+    },
+    {
+      "original_cell_index": 12,
+      "table_text_matches": true,
+      "table_count": 1
+    },
+    {
+      "original_cell_index": 15,
+      "table_text_matches": true,
+      "table_count": 2
+    }
+  ],
+  "error_outputs": 0
+}
