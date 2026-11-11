@@ -1,19 +1,19 @@
 # Computational Neuroscience Independent Study
 
-This is where I keep the projects from my independent study in computational neuroscience. I use Python to build models, run simulations, and look at what the results can tell us about how neurons behave.
-
-For each project, I explain the question, the equations, how I wrote the code, and what I found. I also explain the limits of the model, because getting a result from a simulation does not mean it describes everything that happens in a real neuron.
+This is where I keep the projects from my independent study in computational neuroscience. I use Python to build models, run simulations, and analyze data. Each project explains the question I asked, how I approached it, and what I can learn from the results.
 
 ## Start here
 
-The first project uploaded here is **Hodgkin–Huxley Dynamics with a Voltage-Gated Calcium Current**. I added a simplified calcium current to the Hodgkin–Huxley model and looked at how it changes voltage responses and calcium inside the cell.
+**EEG, Statistics, and Signal Analysis** · Module 2
 
-[Read about the project](02-hodgkin-huxley-calcium/README.md) · [Open the notebook](02-hodgkin-huxley-calcium/hodgkin_huxley_calcium.ipynb)
+I worked through exercises in statistics, regression, and Fourier analysis, then compared features from 32 EEG channels in Rest and Task. I used PCA to explore the features and logistic regression to classify the two conditions.
 
-The notebook is labeled Project 2 because that is its number in my independent study. It is the only project uploaded here so far.
+[Read about the module](module-02-eeg-and-statistics/README.md) · [Open the EEG notebook](module-02-eeg-and-statistics/06_eeg_pca_and_classification.ipynb)
 
-## What is in the notebook?
+**Hodgkin–Huxley Dynamics with a Voltage-Gated Calcium Current** · Project 2
 
-You can follow the equations, read the code, and see the plots and tables without running anything. The notebook also includes my predictions and explanations of the results.
+I added a simplified calcium current to the Hodgkin–Huxley model and looked at how it changes voltage responses and calcium inside the cell.
 
-If you want to run it yourself, the project README explains how. The [package versions](requirements.txt) and [execution checks](02-hodgkin-huxley-calcium/VERIFICATION.md) are included too. There is also an unchanged copy of the original notebook.
+[Read about the project](02-hodgkin-huxley-calcium/README.md) · [Open the Hodgkin–Huxley notebook](02-hodgkin-huxley-calcium/hodgkin_huxley_calcium.ipynb)
+
+Each project includes notebooks with saved figures and results, instructions to run them, and notes on the execution checks.

@@ -1,0 +1,86 @@
+{
+  "python": "3.14.6",
+  "platform": "Darwin",
+  "architecture": "arm64",
+  "execution_method": "Fresh IPython process per notebook, with Matplotlib inline",
+  "fresh_execution_completed": true,
+  "notebooks": [
+    {
+      "notebook": "01_descriptive_statistics.ipynb",
+      "code_cells_executed": 1,
+      "saved_png_count": 0,
+      "rerun_png_count": 0,
+      "stdout_changed_at_cell_indexes": []
+    },
+    {
+      "notebook": "02_random_sequences.ipynb",
+      "code_cells_executed": 4,
+      "saved_png_count": 2,
+      "rerun_png_count": 2,
+      "stdout_changed_at_cell_indexes": [
+        1,
+        2
+      ]
+    },
+    {
+      "notebook": "03_cricket_chirps_regression.ipynb",
+      "code_cells_executed": 1,
+      "saved_png_count": 1,
+      "rerun_png_count": 1,
+      "stdout_changed_at_cell_indexes": []
+    },
+    {
+      "notebook": "04_boiling_point_prediction.ipynb",
+      "code_cells_executed": 1,
+      "saved_png_count": 1,
+      "rerun_png_count": 1,
+      "stdout_changed_at_cell_indexes": []
+    },
+    {
+      "notebook": "05_temperature_regression_and_fft.ipynb",
+      "code_cells_executed": 9,
+      "saved_png_count": 6,
+      "rerun_png_count": 6,
+      "stdout_changed_at_cell_indexes": []
+    },
+    {
+      "notebook": "06_eeg_exploratory_analysis.ipynb",
+      "code_cells_executed": 6,
+      "saved_png_count": 5,
+      "rerun_png_count": 5,
+      "stdout_changed_at_cell_indexes": [
+        1
+      ],
+      "rerun_result_lines": [
+        "Total missing values: 0",
+        "Strongest region: Centroparietal (sum = 129.0%)"
+      ]
+    },
+    {
+      "notebook": "06_eeg_pca_and_classification.ipynb",
+      "code_cells_executed": 9,
+      "saved_png_count": 8,
+      "rerun_png_count": 8,
+      "stdout_changed_at_cell_indexes": [
+        1
+      ],
+      "rerun_result_lines": [
+        "Total missing values: 0",
+        "Strongest region: Centroparietal (sum = 5.78)",
+        "Total variance explained: 55.9%",
+        "Accuracy: 0.938",
+        "AUC: 0.984"
+      ]
+    }
+  ],
+  "original_notebooks_sha256": {
+    "Untitled.ipynb": "506a95b452e473a8067b1bc196a5a272dc57bdb875b7182b38394e8c25ad8502",
+    "ccode 5 (temperature dataset).ipynb": "ec74b1ae857c1c755862681381f25b9d50f0192fffabc119a927595225ca86de",
+    "code 1 (stat metrics).ipynb": "c3d8555f44e7080d5b04a493768fbdcbc70095d30462218883ce1fbd5eb7ac3c",
+    "code 3 (linear regression).ipynb": "c67af570d18d66629297caa5d5956e7a9033e302fadb0c2009c382d8fc458f94",
+    "code 4 (boiling point prediction).ipynb": "bb390cd3e780160a0e36111adaa83603daf45f0b57650b4abe449ff9296024be",
+    "code 6 (EEG).ipynb": "9aa39c0f5739c4a9c6504ade0647b47222b8aa520efbfe12f268a8eedc6d7633",
+    "code EEG standardized.ipynb": "a6bd88efe8bf5d0165642cf5a5ad39d2cff811f30dcc46568ddcea45fa1ca08b",
+    "random sequence (ranvar).ipynb": "f55dd3ef0815b60b1633bb6b8a145c48edb920a7eab3da99e1956d311b0a3a75"
+  }
+}
